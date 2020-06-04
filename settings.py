@@ -1,0 +1,13 @@
+# GLOBAL VARS
+SCREEN_SIZE = (750, 750)
+GRID_SIZE = (30, 30) 
+GRID_MARGIN = 1
+NODE_SIZE = (SCREEN_SIZE[0] / GRID_SIZE[0], SCREEN_SIZE[1] / GRID_SIZE[1])
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+YELLOW = (255, 255, 0)
+BLUE = (0, 0, 255)
+COLORS_DICT = {'blank': WHITE, 'start': GREEN, 'end': RED, 'wall': BLACK, 'path': YELLOW, 'child': BLUE}
