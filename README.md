@@ -1,6 +1,6 @@
 # A* Pathfinding Pygame Visualization
 
-* This is a simple visualization of the A* pathfinding algorithm. To try it for yourself you must have [Pygame](https://www.pygame.org/docs/) installed
+## This is a simple visualization of the A* pathfinding algorithm. To try it for yourself you must have [Pygame](https://www.pygame.org/docs/) installed
 
 * Click to create walls.
 * Hold 'q' and click to create a start node
@@ -10,3 +10,11 @@
 * Press 'spacebar' to clear grid
 * Press 'esc' to exit
 > Note: This implementation does not consider diagonal jumps from one square to another. 
+
+## Requirements
+[Python3](https://www.python.org/downloads/)
+[Pygame](https://www.pygame.org/docs/)
+
+```
+pip install pygame
+```
