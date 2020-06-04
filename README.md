@@ -12,8 +12,8 @@ This is a simple visualization of the A* pathfinding algorithm. To try it for yo
 > Note: This implementation does not consider diagonal jumps from one square to another. 
 
 ## Requirements
-*[Python3](https://www.python.org/downloads/)
-*[Pygame](https://www.pygame.org/docs/)
+* [Python3](https://www.python.org/downloads/)
+* [Pygame](https://www.pygame.org/docs/)
 
 ```
 pip install pygame
