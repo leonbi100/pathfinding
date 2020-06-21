@@ -2,6 +2,11 @@
 
 This is a simple visualization of the A* pathfinding algorithm. To try it for yourself you must have [Pygame](https://www.pygame.org/docs/) installed
 
+### To Run:
+```
+python3 main.py
+```
+
 * Click to create walls.
 * Hold 'q' and click to create a start node
 * Hold 'w' and click to create an end node
