@@ -2,6 +2,8 @@
 
 This is a simple visualization of the A* pathfinding algorithm. To try it for yourself you must have [Pygame](https://www.pygame.org/docs/) installed
 
+![A* Pathfinding Demo](pathfinding.gif)
+
 ### To Run:
 ```
 python3 main.py
