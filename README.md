@@ -9,7 +9,6 @@ This is a simple visualization of the A* pathfinding algorithm. To try it for yo
 * Press 'return' to start visualization
 * Press 'spacebar' to clear grid
 * Press 'esc' to exit
-> Note: This implementation does not consider diagonal jumps from one square to another. 
 
 ## Requirements
 * [Python3](https://www.python.org/downloads/)
